@@ -1,7 +1,7 @@
 # Useful-Tools
 A collection of tools for various purposes.
 
-## Tool Developers
+## Tools
 * Empty Content Directory Generator - Buckminsterfullerene
 * [FModel](https://fmodel.app)
 * [UAssetGUI](https://github.com/atenfyr/UAssetGUI) - Atenfyr
